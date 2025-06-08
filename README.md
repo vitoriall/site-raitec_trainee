@@ -43,7 +43,7 @@ site-raitec_trainee/
 
 ## 🔗 Acesse o site
 
-➡️ [Clique aqui para ver o site publicado no GitHub Pages](https://vitoriiall.github.io/site-raitec_trainee/)
+➡️ [Clique aqui para ver o site publicado no GitHub Pages](https://vitoriall.github.io/site-raitec_trainee/)
 
 ## ✨ Desenvolvido por
 

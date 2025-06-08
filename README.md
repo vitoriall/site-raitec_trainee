@@ -1,6 +1,6 @@
 # 🌐 Site Trainee - RAITec 2025.1
 
-Este é o site desenvolvido como parte da etapa trainee do Time de Mídias do **RAITec**, grupo de extensão da Universidade Federal do Ceará.
+Este é o site desenvolvido como parte da etapa trainee do Time de Mídias do **RAITec**.
 
 ## 💡 Sobre o projeto
 
